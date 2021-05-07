@@ -34,7 +34,7 @@ function Weather() {
       }}>
         <h1>See Forecast</h1>
         <input
-        name= "zip"
+        name= "city"
         type="text"
         placeholder="City Name"
         value={city}
