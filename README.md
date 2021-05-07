@@ -15,7 +15,7 @@ Upon load, user will see a form in which to type a city. Upon typing a city, the
 
 List of features:
 
-HTML, SCSS, JS, BOOTSTRAP, REACT, OPEN WEATHER API
+SCSS, JS, REACTBOOTSTRAP, REACT, OPEN WEATHER API
 
 Screenshots of project:
 
